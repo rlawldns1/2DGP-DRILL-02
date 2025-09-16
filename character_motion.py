@@ -56,4 +56,5 @@ while True:
             mode = 0
             way = 0
 
+
 close_canvas()
