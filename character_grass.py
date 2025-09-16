@@ -11,4 +11,5 @@ character.draw_now(400,90)
 
 delay(5)
 
+
 close_canvas()
